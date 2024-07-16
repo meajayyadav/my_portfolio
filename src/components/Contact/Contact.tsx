@@ -15,12 +15,12 @@ export function Contact(){
       </header>
       <div className="contacts">
         <div>
-        <a href="mailto:Hello@vinayaksingh.com"><img src={emailIcon} alt="Email" /></a> 
-          <a href="mailto:Hello@vinayaksingh.com">Hello@vinayaksingh.com</a>
+        <a href="mailto:ajayyadav24567@gmail.com"><img src={emailIcon} alt="Email" /></a> 
+          <a href="mailto:ajayyadav24567@gmail.com">ajayyadav24567@gmail.com</a>
         </div>
         <div>
-        <a href="tel:+919630576848"><img src={phoneIcon} alt="Phone No" /></a>
-          <a href="tel:+919630576848">(+91) 9630576848</a>
+        <a href="tel:+6204013196"><img src={phoneIcon} alt="Phone No" /></a>
+          <a href="tel:+6204013196">(+91) 6204013196</a>
         </div>  
       </div>
       <Form></Form>

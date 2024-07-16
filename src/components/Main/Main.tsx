@@ -7,16 +7,17 @@ import { Project } from "../Project/Project";
 
 
 
-import wordpress from "../../assets/wordpress.svg";
-import shopify from "../../assets/shopify.svg";
+// import wordpress from "../../assets/wordpress.svg";
+// import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
+import angularIcon from "../../assets/angular-svgrepo-com.svg"
 import cssIcon from "../../assets/css-icon.svg";
 import sassIcon from "../../assets/sass-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
 import nodeIcon from "../../assets/node-icon.svg";
-import reactIcon from "../../assets/react-icon.svg";
+// import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
+// import vueIcon from "../../assets/vue-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 
 export function Main() {
@@ -163,15 +164,20 @@ export function Main() {
                   "height": 20
                 },
                 {
-                  "src": wordpress,
+                  "src": angularIcon,
                   "width": 20,
                   "height": 20
                 },
-                {
-                  "src": shopify,
-                  "width": 20,
-                  "height": 20
-                },
+                // {
+                //   "src": wordpress,
+                //   "width": 20,
+                //   "height": 20
+                // },
+                // {
+                //   "src": shopify,
+                //   "width": 20,
+                //   "height": 20
+                // },
                 {
                   "src": htmlIcon,
                   "width": 20,
@@ -192,11 +198,11 @@ export function Main() {
                   "width": 20,
                   "height": 20
                 },
-                {
-                  "src": reactIcon,
-                  "width": 20,
-                  "height": 20
-                },
+                // {
+                //   "src": reactIcon,
+                //   "width": 20,
+                //   "height": 20
+                // },
                 {
                   "src": sassIcon,
                   "width": 20,
@@ -212,11 +218,11 @@ export function Main() {
                 //   "width": 20,
                 //   "height": 20
                 // },
-                {
-                  "src": vueIcon,
-                  "width": 20,
-                  "height": 20
-                },
+                // {
+                //   "src": vueIcon,
+                //   "width": 20,
+                //   "height": 20
+                // },
 
               ],
               "polygon": {
