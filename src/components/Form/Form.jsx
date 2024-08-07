@@ -12,7 +12,7 @@ export function Form() {
   const [isHuman, setIsHuman] = useState(false)
   const [message, setMessage] = useState('')
 
-  function verifyEmail(email: string) {
+  function verifyEmail(email) {
     if (validator.isEmail(email)) {
       setValidEmail(true)
     } else {
